@@ -1,19 +1,12 @@
-# ACTIVIDAD 5 - PHP/MYSQL - LOGIN
-
-## Requisitos
-
-- Servidor web con PHP y MySQL.
-- Acceso a phpMyAdmin para la gestión de la base de datos.
+# ACTIVIDAD 7 - PHP/MYSQL - LOGIN
 
 ## Objetivos de la actividad
 
-* Aprender a utilizar SESIONES.
-* Organizar el proyecto entre lógica de negocios, funcionalidad y vistas.
-* Control de las rutas de los proyectos.
+* Resolver problemas
+* Aprender git i github.
+* Aprender a utilizar COOKIES en PHP
 * Resolución de problemas.
-* Aprender Markdown.
-* Aprender Git y GitHub.
-* Aprender a refactorizar el código.
+
 
 # Capturas de pantalla
 
